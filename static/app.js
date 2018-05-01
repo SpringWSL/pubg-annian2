@@ -49,7 +49,7 @@ vapp = new Vue({
     showFirstAid: true,
     showMedKit: true,
     showDrink: true,
-    showGrenade: true,
+    showGrenade: false,
     showSmokeBomb: false,
     showAmmo556: false,
     showAmmo762: false,
@@ -66,12 +66,12 @@ vapp = new Vue({
     showSRStock: false,
     showM16A4: true,
     showSCAR: true,
-    showAK47: false,
+    showAK47: true,
     showHK416: true,
     showPan: true,
     showMini14: false,
     showSKS: false,
-    showKar98k: true,
+    showKar98k: false,
 
     // --------------------------------------------------------------------------
 
