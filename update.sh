@@ -26,8 +26,8 @@ cd libpcap-1.8.1
 make
 make install
 
-git clone https://github.com/tanggengyao1/leida.git
-cd leida/
+git clone https://github.com/SpringWSL/pubg-annian2.git
+cd pubg-annian2/
 npm i
 npm i -g pino
 npm install -g forever
